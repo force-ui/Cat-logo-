@@ -1,11 +1,11 @@
 {
  "config": {
-  "storeName": "Mi Tienda",
+  "storeName": "FORCE",
   "whatsapp": "+56983122718",
   "currency": "$",
   "bannerTitle": "",
-  "bannerText": "Elige tus prendas y envía tu pedido directo por WhatsApp.",
-  "promo": "",
+  "bannerText": "Elige tus prendas y envía tu pedido directo por WhatsApp a tu asesor de ventas ",
+  "promo": "Por mayor de 3 del mismo producto, envío a todas las regiones por la empresa de su preferencia ",
   "unitPrices": true,
   "categories": [
    "Hombre",
@@ -24,7 +24,8 @@
    }
   ],
   "theme": {
-   "preset": "azul"
+   "preset": "custom",
+   "accent": "#ff8648"
   }
  },
  "products": [
