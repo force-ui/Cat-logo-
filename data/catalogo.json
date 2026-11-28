@@ -1,0 +1,372 @@
+{
+ "config": {
+  "storeName": "Mi Tienda",
+  "whatsapp": "+56983122718",
+  "currency": "$",
+  "bannerTitle": "",
+  "bannerText": "Elige tus prendas y envía tu pedido directo por WhatsApp.",
+  "promo": "",
+  "unitPrices": true,
+  "categories": [
+   "Hombre",
+   "Mujer",
+   "Niños",
+   "Accesorios"
+  ],
+  "contacts": [
+   {
+    "name": "Ventas",
+    "number": "+56982828752"
+   }
+  ],
+  "theme": {
+   "preset": "azul"
+  }
+ },
+ "products": [
+  {
+   "id": "pmwzyvnzt",
+   "soldOut": false,
+   "name": "CONJUNTO CORTEZ",
+   "price": 16000,
+   "dozen": 15000,
+   "pack": 0,
+   "packQty": 0,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Negro",
+    "Gris claro"
+   ],
+   "badge": "",
+   "desc": "MATERIAL ALGODÓN",
+   "imgs": [
+    "fotos/pmwzyvnzt-mwzyvt6a-0.jpg"
+   ],
+   "imgCol": [
+    "Negro"
+   ]
+  },
+  {
+   "id": "pmvch2y4w",
+   "soldOut": false,
+   "name": "SECADO RAPIDO HOMBRE CARGO COD. 04",
+   "price": 10500,
+   "dozen": 9500,
+   "pack": 9300,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "colors": [
+    "Negro",
+    "Camel",
+    "Beige",
+    "Azul marino",
+    "Gris",
+    "Verde botella",
+    "Verde militar"
+   ],
+   "badge": "",
+   "desc": "MARCA ÍDOLO, Bolsillos a los costados, desmontable, logo bordado",
+   "imgs": [
+    "fotos/pmvch2y4w-mwzyvt6a-0.jpg",
+    "fotos/pmvch2y4w-mwzyvt6a-1.jpg"
+   ],
+   "imgCol": [
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "pmvbb9z2z",
+   "soldOut": false,
+   "name": "CAMISA SECADO RAPIDO HOMBRE",
+   "price": 11000,
+   "dozen": 9500,
+   "pack": 9000,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "colors": [
+    "Negro",
+    "Gris",
+    "Verde botella",
+    "Verde militar",
+    "Azul marino",
+    "Camel",
+    "Beige"
+   ],
+   "badge": "",
+   "desc": "Marca ídolo, Secado rapido, transpirabilidad, bordado",
+   "imgs": [
+    "fotos/pmvbb9z2z-mwzyvt6a-0.jpg",
+    "fotos/pmvbb9z2z-mwzyvt6a-1.jpg"
+   ],
+   "imgCol": [
+    "Negro",
+    ""
+   ]
+  },
+  {
+   "id": "pmvbagkoi",
+   "soldOut": false,
+   "name": "PANTALÓN BUSO RECTO COD 11",
+   "price": 6500,
+   "dozen": 6000,
+   "pack": 5800,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Gris",
+    "Negro",
+    "Grafito",
+    "Azul marino"
+   ],
+   "badge": "",
+   "desc": "ALGODÓN, RECTO, BORDADO",
+   "imgs": [
+    "fotos/pmvbagkoi-mwzyvt6a-0.jpg",
+    "fotos/pmvbagkoi-mwzyvt6a-1.jpg"
+   ],
+   "imgCol": [
+    "Gris",
+    "Negro"
+   ]
+  },
+  {
+   "id": "pmvafz1o5",
+   "soldOut": false,
+   "name": "PANTALÓN BUSO HOMBRE COD 10",
+   "price": 6500,
+   "dozen": 6000,
+   "pack": 5800,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Negro",
+    "Gris claro"
+   ],
+   "badge": "",
+   "desc": "Algodón 100, bota recta, logo bordado",
+   "imgs": [
+    "fotos/pmvafz1o5-mwzyvt6a-0.jpg",
+    "fotos/pmvafz1o5-mwzyvt6a-1.jpg"
+   ],
+   "imgCol": [
+    "",
+    "Negro"
+   ]
+  },
+  {
+   "id": "pmva3u6yd",
+   "soldOut": false,
+   "name": "SECADO RAPIDO DE HOMBRE COD. 05",
+   "price": 10000,
+   "dozen": 9000,
+   "pack": 8800,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "XXXL"
+   ],
+   "colors": [
+    "Negro",
+    "Camel",
+    "Caqui",
+    "Verde botella",
+    "Verde militar",
+    "Azul marino",
+    "Gris"
+   ],
+   "badge": "",
+   "desc": "desmontable, logo bordado, cierre lateral",
+   "imgs": [
+    "fotos/pmva3u6yd-mwzyvt6a-0.jpg",
+    "fotos/pmva3u6yd-mwzyvt6a-1.jpg",
+    "fotos/pmva3u6yd-mwzyvt6a-2.jpg",
+    "fotos/pmva3u6yd-mwzyvt6a-3.jpg"
+   ],
+   "imgCol": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "pmv9udlbm",
+   "soldOut": false,
+   "name": "SECADO RAPIDO DE MUJER CON CARGO",
+   "price": 10000,
+   "dozen": 9500,
+   "pack": 9300,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Mujer",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Camel",
+    "Negro",
+    "Caqui",
+    "Gris",
+    "Petróleo",
+    "Verde botella",
+    "Azul marino"
+   ],
+   "badge": "",
+   "desc": "desmontable, con cargo, pinzas en la parte posterior y logo bordado",
+   "imgs": [
+    "fotos/pmv9udlbm-mwzyvt6a-0.jpg",
+    "fotos/pmv9udlbm-mwzyvt6a-1.jpg",
+    "fotos/pmv9udlbm-mwzyvt6a-2.jpg",
+    "fotos/pmv9udlbm-mwzyvt6a-3.jpg",
+    "fotos/pmv9udlbm-mwzyvt6a-4.jpg",
+    "fotos/pmv9udlbm-mwzyvt6a-5.jpg",
+    "fotos/pmv9udlbm-mwzyvt6a-6.jpg"
+   ],
+   "imgCol": [
+    "Gris",
+    "Negro",
+    "",
+    "Azul marino",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "pmv9tqex1",
+   "soldOut": false,
+   "name": "SECADO RAPIDO DE MUJER",
+   "price": 9500,
+   "dozen": 9000,
+   "pack": 8800,
+   "packQty": 48,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Mujer",
+   "sizes": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+   ],
+   "colors": [
+    "Camel",
+    "Caqui",
+    "Plomo",
+    "Azul marino",
+    "Verde militar",
+    "Negro",
+    "Petróleo"
+   ],
+   "badge": "",
+   "desc": "Desmontable, pinzas en la parte posterior, material de secado rápido, logo bordado",
+   "imgs": [
+    "fotos/pmv9tqex1-mwzyvt6a-0.jpg",
+    "fotos/pmv9tqex1-mwzyvt6a-1.jpg",
+    "fotos/pmv9tqex1-mwzyvt6a-2.jpg",
+    "fotos/pmv9tqex1-mwzyvt6a-3.jpg",
+    "fotos/pmv9tqex1-mwzyvt6a-4.jpg"
+   ],
+   "imgCol": [
+    "Azul marino",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  {
+   "id": "pmv8yzpdh",
+   "soldOut": false,
+   "name": "SECADO RAPIDO HOMBRE CARGO",
+   "price": 10000,
+   "dozen": 9500,
+   "pack": 9000,
+   "packQty": 72,
+   "minU": 3,
+   "dozenQty": 12,
+   "category": "Hombre",
+   "sizes": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+   ],
+   "colors": [
+    "Azul marino",
+    "Negro",
+    "Gris oscuro",
+    "Beige"
+   ],
+   "badge": "",
+   "desc": "MARCA BLUEMOUNTAIN, desmontable, ajustador el el tobillo, secado rapido, cargo",
+   "imgs": [
+    "fotos/pmv8yzpdh-mwzyvt6a-0.jpg",
+    "fotos/pmv8yzpdh-mwzyvt6a-1.jpg"
+   ],
+   "imgCol": [
+    "Azul marino",
+    "Gris oscuro"
+   ]
+  }
+ ]
+}
